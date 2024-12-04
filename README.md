@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Islam Mokrane</h1>
 <h3 align="center">Software Engineer, passionate about crafting high-performance, intuitive digital solutions while ensuring quality, accessibility, and seamless user experiences.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=islammkr&label=Profile%20views&color=0e75b6&style=flat" alt="islammkr" /> </p>
+- 👨‍💻 All of my projects are available at [https://mokraneislam.com](https://mokraneislam.com)
+
+- 📫 How to reach me **mokraneislam@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
